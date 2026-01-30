@@ -1,10 +1,10 @@
-🕵️ #Dev Detective – GitHub Profile Finder
+🕵️ Dev Detective – GitHub Profile Finder
 
 Dev Detective is a responsive web application that allows users to search for any GitHub profile and view detailed information in a clean, modern interface. The app fetches real-time data from the GitHub Public API and presents it in a user-friendly profile card layout.
 
 This project was built to strengthen core frontend concepts such as API integration, asynchronous JavaScript, error handling, and dynamic DOM manipulation.
 
-✨ #Features
+✨ Features
 
 🔍 Search GitHub users by username
 
@@ -30,7 +30,7 @@ Portfolio / website link
 
 📱 Responsive and modern UI design
 
-🛠️ #Tech Stack
+🛠️ Tech Stack
 
 HTML5 – Structure
 
@@ -40,7 +40,7 @@ Vanilla JavaScript (ES6+) – Logic & API handling
 
 GitHub REST API – Data source
 
-📚 #What I Learned
+📚 What I Learned
 
 Working with external APIs using fetch
 
@@ -52,7 +52,7 @@ Formatting and rendering dynamic data
 
 Writing clean, readable, and modular JavaScript code
 
-🚀 #Future Improvements
+🚀 Future Improvements
 
 Battle Mode to compare two GitHub users
 
